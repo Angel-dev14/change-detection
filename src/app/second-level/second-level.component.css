@@ -1,16 +1,16 @@
 :host {
   display: flex;
-  padding: 16px;
-  flex-direction: column;
+  margin: 8px;
   align-items: center;
-  border-radius: 10px;
+  flex-direction: column;
   color: #fff;
+  border-radius: 10px;
   border: 1px solid #000;
-  background: #459191;
+  background: #478a8a;
+}
+strong {
+  padding: 16px;
 }
 .children {
   display: flex;
-}
-pre {
-  width: 100%;
 }
